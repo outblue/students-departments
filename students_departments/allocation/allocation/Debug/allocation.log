@@ -1,33 +1,32 @@
-﻿生成启动时间为 2017/10/15 18:10:24。
-     1>项目“C:\Users\lenovo\Desktop\第六次作业\allocation\allocation\allocation.vcxproj”在节点 2 上(build 个目标)。
+﻿生成启动时间为 2017/10/16 19:23:08。
+     1>项目“C:\Users\lenovo\Desktop\第六次作业\软工第六次作业\allocation\allocation\allocation.vcxproj”在节点 2 上(build 个目标)。
      1>InitializeBuildStatus:
          正在创建“Debug\allocation.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
        ClCompile:
          D:\VS 2010\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt allocation.cpp
          allocation.cpp
-     1>c:\users\lenovo\desktop\第六次作业\allocation\allocation\allocation.cpp(466): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+     1>c:\users\lenovo\desktop\第六次作业\软工第六次作业\allocation\allocation\allocation.cpp(457): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
                  d:\vs 2010\vc\include\stdio.h(234) : 参见“fopen”的声明
-     1>c:\users\lenovo\desktop\第六次作业\allocation\allocation\allocation.cpp(83): warning C4715: “get_department”: 不是所有的控件路径都返回值
-     1>c:\users\lenovo\desktop\第六次作业\allocation\allocation\allocation.cpp(92): warning C4715: “get_student”: 不是所有的控件路径都返回值
+     1>c:\users\lenovo\desktop\第六次作业\软工第六次作业\allocation\allocation\allocation.cpp(83): warning C4715: “get_department”: 不是所有的控件路径都返回值
+     1>c:\users\lenovo\desktop\第六次作业\软工第六次作业\allocation\allocation\allocation.cpp(92): warning C4715: “get_student”: 不是所有的控件路径都返回值
          所有输出均为最新。
        ManifestResourceCompile:
          所有输出均为最新。
        Link:
-         D:\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\第六次作业\allocation\Debug\allocation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\allocation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lenovo\Desktop\第六次作业\allocation\Debug\allocation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\第六次作业\allocation\Debug\allocation.lib" /MACHINE:X86 Debug\allocation.exe.embed.manifest.res
+         D:\VS 2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\lenovo\Desktop\第六次作业\软工第六次作业\allocation\Debug\allocation.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\allocation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\lenovo\Desktop\第六次作业\软工第六次作业\allocation\Debug\allocation.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\lenovo\Desktop\第六次作业\软工第六次作业\allocation\Debug\allocation.lib" /MACHINE:X86 Debug\allocation.exe.embed.manifest.res
          Debug\allocation.obj
          Debug\cJSON.obj
-            正在创建库 C:\Users\lenovo\Desktop\第六次作业\allocation\Debug\allocation.lib 和对象 C:\Users\lenovo\Desktop\第六次作业\allocation\Debug\allocation.exp
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\allocation.exe.embed.manifest" /manifest Debug\allocation.exe.intermediate.manifest
          所有输出均为最新。
        LinkEmbedManifest:
          所有输出均为最新。
-         allocation.vcxproj -> C:\Users\lenovo\Desktop\第六次作业\allocation\Debug\allocation.exe
+         allocation.vcxproj -> C:\Users\lenovo\Desktop\第六次作业\软工第六次作业\allocation\Debug\allocation.exe
        FinalizeBuildStatus:
          正在删除文件“Debug\allocation.unsuccessfulbuild”。
          正在对“Debug\allocation.lastbuildstate”执行 Touch 任务。
-     1>已完成生成项目“C:\Users\lenovo\Desktop\第六次作业\allocation\allocation\allocation.vcxproj”(build 个目标)的操作。
+     1>已完成生成项目“C:\Users\lenovo\Desktop\第六次作业\软工第六次作业\allocation\allocation\allocation.vcxproj”(build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:08.39
+已用时间 00:00:06.22

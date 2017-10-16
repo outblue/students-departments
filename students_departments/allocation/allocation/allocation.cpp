@@ -11,8 +11,8 @@
 
 using namespace std;
 
-const int Numstu = 5000;
-const int Numdep = 100;
+const int Numstu = 200;
+const int Numdep = 20;
 
 
 struct Applylist
@@ -207,14 +207,9 @@ Departments get_member(Departments dep)
 int main()
 {
 	int i,j;
-	int num1 = 0;
-	int num2 = 0;
-	int num3 = 0;
-	int num4 = 0;
-	
-	
+		
 	ifstream in;
-	in.open("s5000-d100-in.json");
+	in.open("s200-d20-in.json");
 
 	string line;
 	string content;
@@ -400,7 +395,6 @@ int main()
 				cJSON_AddItemToArray(array,cJSON_CreateString(a));
 			}
 			
-			num3++;
 		}
 		
 	}
@@ -426,7 +420,6 @@ int main()
 				cJSON_AddItemToArray(array,cJSON_CreateString(b));
 			}
 
-			num1++;
 		}
 
 	}
@@ -442,7 +435,6 @@ int main()
 			const char *c = temp3.c_str();
 			cJSON_AddItemToArray(array,cJSON_CreateString(c));
 			
-			num4++;
 		}
 	}
 
@@ -457,21 +449,17 @@ int main()
 			const char *d = temp4.c_str();
 			cJSON_AddItemToArray(array,cJSON_CreateString(d));
 
-			num2++;
 		}
 	}
 
 
 	//清理工作
-    FILE *fp_out = fopen("s5000-d100-out.json","w");
+    FILE *fp_out = fopen("s200-d20-out.json","w");
     char *buf_out = cJSON_Print(jsonout);
     fwrite(buf_out,strlen(buf_out),1,fp_out);
     fclose(fp_out);
     cJSON_Delete(jsonout);
 
-	cout << num1 << " " << num2 << endl;
-	cout << num3 << " " << num4 << endl;
-
-	system("pause");
+//	system("pause");
 	return 0;
 }
