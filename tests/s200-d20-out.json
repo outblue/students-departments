@@ -1,0 +1,378 @@
+{
+	"matched_department_view":	[{
+			"department_no":	"D0000",
+			"members":	["S0145", "S0049", "S0080", "S0157", "S0001", "S0054", "S0029"]
+		}, {
+			"department_no":	"D0001",
+			"members":	["S0081", "S0161", "S0114", "S0148", "S0012", "S0126", "S0134", "S0074", "S0154"]
+		}, {
+			"department_no":	"D0002",
+			"members":	["S0092", "S0107", "S0196", "S0006", "S0039", "S0185", "S0074", "S0042", "S0137", "S0144", "S0189", "S0166", "S0070", "S0020"]
+		}, {
+			"department_no":	"D0003",
+			"members":	["S0112", "S0140", "S0192"]
+		}, {
+			"department_no":	"D0004",
+			"members":	["S0153", "S0176", "S0112", "S0127", "S0131", "S0120", "S0066", "S0187", "S0034"]
+		}, {
+			"department_no":	"D0005",
+			"members":	["S0196", "S0055", "S0165", "S0040"]
+		}, {
+			"department_no":	"D0006",
+			"members":	["S0000", "S0168", "S0070", "S0094", "S0099", "S0116", "S0133", "S0194", "S0075", "S0132"]
+		}, {
+			"department_no":	"D0007",
+			"members":	["S0021", "S0007", "S0006", "S0185", "S0100", "S0054", "S0102", "S0140", "S0014", "S0015", "S0123"]
+		}, {
+			"department_no":	"D0008",
+			"members":	["S0043", "S0037", "S0025", "S0102", "S0141"]
+		}, {
+			"department_no":	"D0009",
+			"members":	["S0075", "S0086", "S0190", "S0155", "S0164", "S0058", "S0161", "S0100", "S0133", "S0194", "S0177", "S0053"]
+		}, {
+			"department_no":	"D0010",
+			"members":	["S0151", "S0161", "S0032", "S0021", "S0171", "S0029", "S0136", "S0075", "S0163"]
+		}, {
+			"department_no":	"D0011",
+			"members":	["S0006", "S0168", "S0130", "S0080", "S0025", "S0197", "S0073"]
+		}, {
+			"department_no":	"D0013",
+			"members":	["S0011", "S0036", "S0130", "S0169", "S0126", "S0055", "S0102", "S0019", "S0078"]
+		}, {
+			"department_no":	"D0014",
+			"members":	["S0199", "S0027", "S0082", "S0077", "S0062"]
+		}, {
+			"department_no":	"D0015",
+			"members":	["S0065", "S0058"]
+		}, {
+			"department_no":	"D0016",
+			"members":	["S0083", "S0198", "S0094", "S0097", "S0128", "S0019", "S0176"]
+		}, {
+			"department_no":	"D0017",
+			"members":	["S0124", "S0049", "S0039"]
+		}, {
+			"department_no":	"D0018",
+			"members":	["S0179", "S0057", "S0098", "S0199", "S0197", "S0138", "S0053", "S0019", "S0060", "S0176", "S0045", "S0033", "S0150"]
+		}, {
+			"department_no":	"D0019",
+			"members":	["S0092", "S0069", "S0191", "S0025", "S0146"]
+		}],
+	"matched_student_view":	[{
+			"student_no":	"S0000",
+			"department_join":	["D0006"]
+		}, {
+			"student_no":	"S0001",
+			"department_join":	["D0000"]
+		}, {
+			"student_no":	"S0006",
+			"department_join":	["D0002", "D0007", "D0011"]
+		}, {
+			"student_no":	"S0007",
+			"department_join":	["D0007"]
+		}, {
+			"student_no":	"S0011",
+			"department_join":	["D0013"]
+		}, {
+			"student_no":	"S0012",
+			"department_join":	["D0001"]
+		}, {
+			"student_no":	"S0014",
+			"department_join":	["D0007"]
+		}, {
+			"student_no":	"S0015",
+			"department_join":	["D0007"]
+		}, {
+			"student_no":	"S0019",
+			"department_join":	["D0013", "D0016", "D0018"]
+		}, {
+			"student_no":	"S0020",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0021",
+			"department_join":	["D0007", "D0010"]
+		}, {
+			"student_no":	"S0025",
+			"department_join":	["D0008", "D0011", "D0019"]
+		}, {
+			"student_no":	"S0027",
+			"department_join":	["D0014"]
+		}, {
+			"student_no":	"S0029",
+			"department_join":	["D0000", "D0010"]
+		}, {
+			"student_no":	"S0032",
+			"department_join":	["D0010"]
+		}, {
+			"student_no":	"S0033",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0034",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0036",
+			"department_join":	["D0013"]
+		}, {
+			"student_no":	"S0037",
+			"department_join":	["D0008"]
+		}, {
+			"student_no":	"S0039",
+			"department_join":	["D0002", "D0017"]
+		}, {
+			"student_no":	"S0040",
+			"department_join":	["D0005"]
+		}, {
+			"student_no":	"S0042",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0043",
+			"department_join":	["D0008"]
+		}, {
+			"student_no":	"S0045",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0049",
+			"department_join":	["D0000", "D0017"]
+		}, {
+			"student_no":	"S0053",
+			"department_join":	["D0009", "D0018"]
+		}, {
+			"student_no":	"S0054",
+			"department_join":	["D0000", "D0007"]
+		}, {
+			"student_no":	"S0055",
+			"department_join":	["D0005", "D0013"]
+		}, {
+			"student_no":	"S0057",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0058",
+			"department_join":	["D0009", "D0015"]
+		}, {
+			"student_no":	"S0060",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0062",
+			"department_join":	["D0014"]
+		}, {
+			"student_no":	"S0065",
+			"department_join":	["D0015"]
+		}, {
+			"student_no":	"S0066",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0069",
+			"department_join":	["D0019"]
+		}, {
+			"student_no":	"S0070",
+			"department_join":	["D0002", "D0006"]
+		}, {
+			"student_no":	"S0073",
+			"department_join":	["D0011"]
+		}, {
+			"student_no":	"S0074",
+			"department_join":	["D0001", "D0002"]
+		}, {
+			"student_no":	"S0075",
+			"department_join":	["D0006", "D0009", "D0010"]
+		}, {
+			"student_no":	"S0077",
+			"department_join":	["D0014"]
+		}, {
+			"student_no":	"S0078",
+			"department_join":	["D0013"]
+		}, {
+			"student_no":	"S0080",
+			"department_join":	["D0000", "D0011"]
+		}, {
+			"student_no":	"S0081",
+			"department_join":	["D0001"]
+		}, {
+			"student_no":	"S0082",
+			"department_join":	["D0014"]
+		}, {
+			"student_no":	"S0083",
+			"department_join":	["D0016"]
+		}, {
+			"student_no":	"S0086",
+			"department_join":	["D0009"]
+		}, {
+			"student_no":	"S0092",
+			"department_join":	["D0002", "D0019"]
+		}, {
+			"student_no":	"S0094",
+			"department_join":	["D0006", "D0016"]
+		}, {
+			"student_no":	"S0097",
+			"department_join":	["D0016"]
+		}, {
+			"student_no":	"S0098",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0099",
+			"department_join":	["D0006"]
+		}, {
+			"student_no":	"S0100",
+			"department_join":	["D0007", "D0009"]
+		}, {
+			"student_no":	"S0102",
+			"department_join":	["D0007", "D0008", "D0013"]
+		}, {
+			"student_no":	"S0107",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0112",
+			"department_join":	["D0003", "D0004"]
+		}, {
+			"student_no":	"S0114",
+			"department_join":	["D0001"]
+		}, {
+			"student_no":	"S0116",
+			"department_join":	["D0006"]
+		}, {
+			"student_no":	"S0120",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0123",
+			"department_join":	["D0007"]
+		}, {
+			"student_no":	"S0124",
+			"department_join":	["D0017"]
+		}, {
+			"student_no":	"S0126",
+			"department_join":	["D0001", "D0013"]
+		}, {
+			"student_no":	"S0127",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0128",
+			"department_join":	["D0016"]
+		}, {
+			"student_no":	"S0130",
+			"department_join":	["D0011", "D0013"]
+		}, {
+			"student_no":	"S0131",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0132",
+			"department_join":	["D0006"]
+		}, {
+			"student_no":	"S0133",
+			"department_join":	["D0006", "D0009"]
+		}, {
+			"student_no":	"S0134",
+			"department_join":	["D0001"]
+		}, {
+			"student_no":	"S0136",
+			"department_join":	["D0010"]
+		}, {
+			"student_no":	"S0137",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0138",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0140",
+			"department_join":	["D0003", "D0007"]
+		}, {
+			"student_no":	"S0141",
+			"department_join":	["D0008"]
+		}, {
+			"student_no":	"S0144",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0145",
+			"department_join":	["D0000"]
+		}, {
+			"student_no":	"S0146",
+			"department_join":	["D0019"]
+		}, {
+			"student_no":	"S0148",
+			"department_join":	["D0001"]
+		}, {
+			"student_no":	"S0150",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0151",
+			"department_join":	["D0010"]
+		}, {
+			"student_no":	"S0153",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0154",
+			"department_join":	["D0001"]
+		}, {
+			"student_no":	"S0155",
+			"department_join":	["D0009"]
+		}, {
+			"student_no":	"S0157",
+			"department_join":	["D0000"]
+		}, {
+			"student_no":	"S0161",
+			"department_join":	["D0001", "D0009", "D0010"]
+		}, {
+			"student_no":	"S0163",
+			"department_join":	["D0010"]
+		}, {
+			"student_no":	"S0164",
+			"department_join":	["D0009"]
+		}, {
+			"student_no":	"S0165",
+			"department_join":	["D0005"]
+		}, {
+			"student_no":	"S0166",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0168",
+			"department_join":	["D0006", "D0011"]
+		}, {
+			"student_no":	"S0169",
+			"department_join":	["D0013"]
+		}, {
+			"student_no":	"S0171",
+			"department_join":	["D0010"]
+		}, {
+			"student_no":	"S0176",
+			"department_join":	["D0004", "D0016", "D0018"]
+		}, {
+			"student_no":	"S0177",
+			"department_join":	["D0009"]
+		}, {
+			"student_no":	"S0179",
+			"department_join":	["D0018"]
+		}, {
+			"student_no":	"S0185",
+			"department_join":	["D0002", "D0007"]
+		}, {
+			"student_no":	"S0187",
+			"department_join":	["D0004"]
+		}, {
+			"student_no":	"S0189",
+			"department_join":	["D0002"]
+		}, {
+			"student_no":	"S0190",
+			"department_join":	["D0009"]
+		}, {
+			"student_no":	"S0191",
+			"department_join":	["D0019"]
+		}, {
+			"student_no":	"S0192",
+			"department_join":	["D0003"]
+		}, {
+			"student_no":	"S0194",
+			"department_join":	["D0006", "D0009"]
+		}, {
+			"student_no":	"S0196",
+			"department_join":	["D0002", "D0005"]
+		}, {
+			"student_no":	"S0197",
+			"department_join":	["D0011", "D0018"]
+		}, {
+			"student_no":	"S0198",
+			"department_join":	["D0016"]
+		}, {
+			"student_no":	"S0199",
+			"department_join":	["D0014", "D0018"]
+		}],
+	"standalone_departments":	["D0012"],
+	"standalone_students":	["S0002", "S0003", "S0004", "S0005", "S0008", "S0009", "S0010", "S0013", "S0016", "S0017", "S0018", "S0022", "S0023", "S0024", "S0026", "S0028", "S0030", "S0031", "S0035", "S0038", "S0041", "S0044", "S0046", "S0047", "S0048", "S0050", "S0051", "S0052", "S0056", "S0059", "S0061", "S0063", "S0064", "S0067", "S0068", "S0071", "S0072", "S0076", "S0079", "S0084", "S0085", "S0087", "S0088", "S0089", "S0090", "S0091", "S0093", "S0095", "S0096", "S0101", "S0103", "S0104", "S0105", "S0106", "S0108", "S0109", "S0110", "S0111", "S0113", "S0115", "S0117", "S0118", "S0119", "S0121", "S0122", "S0125", "S0129", "S0135", "S0139", "S0142", "S0143", "S0147", "S0149", "S0152", "S0156", "S0158", "S0159", "S0160", "S0162", "S0167", "S0170", "S0172", "S0173", "S0174", "S0175", "S0178", "S0180", "S0181", "S0182", "S0183", "S0184", "S0186", "S0188", "S0193", "S0195"]
+}
